@@ -1,5 +1,5 @@
-- 👋 Hello, I'm Fu Zihao.
+- 👋 Hello, I'm _Fu Zihao_.
 - 😀 I'm a Chinese Student.
-- 👀 I'm very like programming.
+- 👀 I love programming very much.
 - 🏠 My Github URL : [Click this!](https://fuhaowatermelon.github.io)
 - ❗❗ Attention: I use **Chinese** on my website.
